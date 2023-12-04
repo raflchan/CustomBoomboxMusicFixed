@@ -1,6 +1,6 @@
 # Custom Boombox Music (Fixed)
 Allows players to add to or replace boombox tracks in Lethal Company.  
-Based on [Custom Boombox Music](https://thunderstore.io/package/DeadlyKitten/Custom_Boombox_Music/) by [DeadlyKitten](https://thunderstore.io/package/DeadlyKitten/).  
+Based on [Custom Boombox Music](https://thunderstore.io/c/lethal-company/p/Steven/Custom_Boombox_Music/) by [Steven](https://thunderstore.io/c/lethal-company/p/Steven/).  
 Fixed to properly sync in multiplayer.
 
 ## Installing Songs when Installed via r2modman
@@ -18,6 +18,12 @@ You can find the correct folder by going to `Settings`, clicking `Browse profile
 - MP3
 
 ## Changelog
+
+### v1.0.2
+- Fixed version being broken (oopsie)
+
+### v1.0.1
+- Fixed README mistakes
 
 ### v1.0.0
 - Initial

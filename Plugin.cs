@@ -11,7 +11,7 @@ namespace CustomBoomboxTracks
     {
         private const string GUID = "rafl.CustomBoomboxMusicFixed";
         private const string NAME = "Custom Boombox Music (Fixed)";
-        private const string VERSION = "1.0.0";
+        private const string VERSION = "1.0.2";
 
         private static BoomboxPlugin Instance;
 
@@ -27,7 +27,7 @@ namespace CustomBoomboxTracks
             var harmony = new Harmony(GUID);
             harmony.PatchAll();
 
-            LogInfo("Loading Complete! Hijacked by rafl :)");
+            LogInfo("Loading Complete! Yoinked by rafl :)");
         }
 
         #region logging
